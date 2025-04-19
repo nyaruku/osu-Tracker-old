@@ -1,3 +1,5 @@
+Moved to: https://github.com/nyaruku/osu-tracker
+--------------------------------------------
 # Another osu! Tracker
  My own version of an osu! Tracker.
  Made in C++
